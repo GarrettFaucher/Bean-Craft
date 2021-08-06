@@ -1,0 +1,140 @@
+regions:
+  spawn:
+    loc1:
+      ==: org.bukkit.Location
+      world: world
+      x: -100.0
+      y: 0.0
+      z: -100.0
+      pitch: 0.0
+      yaw: 0.0
+    loc2:
+      ==: org.bukkit.Location
+      world: world
+      x: 100.0
+      y: 256.0
+      z: 100.0
+      pitch: 0.0
+      yaw: 0.0
+    canBreak:
+      COAL_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      COPPER_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      IRON_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      GOLD_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      REDSTONE_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      LAPIS_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      EMERALD_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_COAL_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_COPPER_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_IRON_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_GOLD_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_REDSTONE_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_LAPIS_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      DEEPSLATE_EMERALD_ORE:
+        replaceWith: []
+        replenishTime: 36000
+        replaceOn: []
+      STONE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      DIRT:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      GRASS_BLOCK:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      GRANITE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      DIORITE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      ANDESITE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      DEEPSLATE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      GRAVEL:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      COBBLESTONE:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      OBSIDIAN:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      OAK_LEAVES:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      OAK_LOG:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      GRASS:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      BIRCH_LEAVES:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+      BIRCH_LOG:
+        replaceWith: []
+        replenishTime: 12000
+      SAND:
+        replaceWith: []
+        replenishTime: 12000
+        replaceOn: []
+    mobs-spawn: false
+    pvp: false
